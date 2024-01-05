@@ -1,0 +1,3 @@
+[submodule "windfarm"]
+    path = HD-Computing/windfarm
+    url = https://github.com/shyamsundhar058/windfarm-repo.git
