@@ -1,0 +1,3 @@
+[submodule "HDnn"]
+    path = HDnn
+    url = https://github.com/shyamsundhar058/HDnn-repo.git
